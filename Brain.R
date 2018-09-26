@@ -1,4 +1,4 @@
-#setwd("C:/Users/Install/Desktop/CASE_R_september")
+#setwd("")
 load("BloodBrain.RData")
 library(caret)
 library(RANN)
